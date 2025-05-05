@@ -1,0 +1,26 @@
+.lang-select{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+label{
+    font-size: 1rem;
+}
+
+#langs{
+    width: 6rem;
+    background-color: transparent;
+    color: yellowgreen;
+    border: 2px solid yellowgreen;
+    border-radius: 4px;
+    padding: 4px;
+    cursor: pointer;
+}
+
+option{
+    background-color: black;
+    color: yellowgreen;
+    border-radius: 4px;
+}

@@ -1,0 +1,18 @@
+button{
+    padding: 0.6rem 1.2rem;
+    font-size: 0.8rem;
+    background-color: transparent;
+    border: 2px solid greenyellow;
+    color: greenyellow;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: inherit;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+button:hover{
+    background-color: greenyellow;
+    color: black;
+}

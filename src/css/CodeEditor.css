@@ -1,0 +1,21 @@
+.op{
+    width: 50vw;
+    /* background-color: aqua; */
+}
+
+.editor-box{
+    border: 2px solid greenyellow;
+    border-radius: 8px;
+    overflow-y: hidden;
+    width: 50vw;
+}
+
+.monaco-editor{
+    overflow: auto;
+}
+
+@media (max-width: 600px) {
+    .op{
+        width: 90vw;
+    }
+}
