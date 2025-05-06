@@ -1,6 +1,6 @@
 import Editor from '@monaco-editor/react';
 import { useLanguage, useCode } from '../store/store';
-import '../css/CodeEditor.css';
+import '../css/CodeEditor.scss';
 
 export const CodeEditor = () =>{
 	const {lang,setLang} = useLanguage();

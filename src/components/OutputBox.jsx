@@ -1,4 +1,4 @@
-import '../css/OutputBox.css'
+import '../css/OutputBox.scss'
 import { useOutput } from '../store/store'
 
 export const OutputBox = () => {

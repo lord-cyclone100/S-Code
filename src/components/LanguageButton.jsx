@@ -1,6 +1,6 @@
 import langarray from '../../api/langs.json'
 import { useLanguage, useCode, useVersion } from '../store/store';
-import '../css/LanguageButton.css';
+import '../css/LanguageButton.scss';
 
 export const LanguageButton = () =>{
 	const {lang,setLang} = useLanguage();

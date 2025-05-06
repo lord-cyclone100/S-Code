@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { useLanguage, useCode, useVersion, useOutput, useInput } from '../store/store';
-import '../css/ExecuteButton.css';
+import '../css/ExecuteButton.scss';
 import { FaPlay } from "react-icons/fa";
 import { toast, ToastContainer } from 'react-toastify'
 // import to

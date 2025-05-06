@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { FaCopy } from "react-icons/fa";
-import './App.css'
+import './App.scss'
 import { CodeEditor } from './components/CodeEditor'
 import { OutputBox } from './components/OutputBox'
 import { LanguageButton } from './components/LanguageButton'
