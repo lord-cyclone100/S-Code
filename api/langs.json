@@ -1,26 +1,31 @@
 [
     {
         "language" : "c",
+        "extension" : "c",
         "code" : "#include<stdio.h>\nint main(){\n\tprintf(\"Hello World\");\n\treturn 0;\n}\n",
         "version": "10.2.0"
     },
     {
         "language" : "java",
+        "extension" : "java",
         "code" : "public class HelloWorld{\n\tpublic static void main(String[] args){\n\t\tSystem.out.println(\"Hello World\");\n\t}\n}",
         "version": "15.0.2"
     },
     {
         "language" : "cpp",
+        "extension" : "cpp",
         "code" : "#include <iostream>\nusing namespace std;\nint main(){\n\tcout << \"Hello World\";\n\treturn 0;\n}",
         "version": "10.2.0"
     },
     {
         "language" : "python",
+        "extension" : "py",
         "code" : "print(\"Hello World\")\n",
         "version": "3.10.0"
     },
     {
         "language" : "javascript",
+        "extension" : "js",
         "code" : "console.log(\"Hello World\")\n",
         "version": "1.32.3"
     }

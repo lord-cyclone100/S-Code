@@ -1,12 +1,47 @@
-# React + Vite
+# ⚡ S-Code
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**S-Code** is a modern, fast, and lightweight online code editor that lets you write, run, and test code in multiple languages—all in your browser.
 
-Currently, two official plugins are available:
+Built with **React**, **Monaco Editor**, and the **Piston API**, it provides a seamless coding experience with support for inputs, outputs, and helpful features like copying and downloading code.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧠 **Multi-language support** via Piston API
+- 🖊️ **Monaco Editor** (VS Code feel)
+- 🎛️ **Custom input** for running interactive code
+- 📤 **Output display** with real-time feedback
+- 📎 **Copy to clipboard** & **Download code** options
+- 🔄 Built with **React**, **Zustand**, **SASS**
+- 🔔 **Toast notifications** via React Toastify
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – UI framework  
+- **Monaco Editor** – Code editor  
+- **Zustand** – Global state management  
+- **SASS** – CSS preprocessor  
+- **Piston API** – Code execution backend  
+- **React Toastify** – Notifications
+
+---
+
+## 🧪 Try It Out
+
+_Coming soon: Live demo link_
+
+---
+
+## 🧰 Getting Started
+
+### Clone & Install
+
+```bash
+git clone https://github.com/your-username/S-Code.git
+cd S-Code
+bun install
+bun run dev
+```

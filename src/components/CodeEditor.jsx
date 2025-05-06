@@ -21,3 +21,5 @@ export const CodeEditor = () =>{
 		</div>
 	)
 }
+
+//Checkout the Monaco Editor React docs for more details https://www.npmjs.com/package/@monaco-editor/react
