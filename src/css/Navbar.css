@@ -1,9 +1,12 @@
 .navbar{
-    /* background-color: black; */
-    /* position: absolute; */
-    /* width: 100vw; */
+    background-color: black;
+    /* position: absolute;
+    width: 100vw; */
     height: 4rem;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
     & img{
         height: 2rem;
