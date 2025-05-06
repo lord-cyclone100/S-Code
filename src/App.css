@@ -5,10 +5,12 @@
     position: absolute;
     top: 0;
     left: 0;
+    width: 100vw;
 }
 
 .button-section{
     display: flex;
+    padding: 0 4rem;
     justify-content: space-between;
     & div{
         display: flex;
@@ -62,6 +64,8 @@
 @media (max-width: 600px) {
     .code-space{
         flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
     .button-section{
         flex-direction: column;
