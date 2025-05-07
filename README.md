@@ -1,6 +1,6 @@
 # ⚡ S-Code
 
-**S-Code** is a modern, fast, and lightweight online code editor that lets you write, run, and test code in multiple languages—all in your browser.
+**S-Code** is a modern, fast, online code editor that lets you write, run, and test code in multiple languages—all in your browser.
 
 Built with **React**, **Monaco Editor**, and the **Piston API**, it provides a seamless coding experience with support for inputs, outputs, and helpful features like copying and downloading code.
 
